@@ -14,6 +14,8 @@ Aspen
 
 Douglas-fir
 
-Krummholz The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features.
+Krummholz 
+
+The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features.
 
 We are asked to predict the Cover_Type for every row in the test set (565892 observations).
