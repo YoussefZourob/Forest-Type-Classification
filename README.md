@@ -2,19 +2,19 @@
 
 This task proposes a classification problem: predict the forest cover type (the predominant kind of tree cover) from strictly cartographic variables (as opposed to remotely sensed data). The study area includes four wilderness areas located in the Roosevelt National Forest of northern Colorado. Each observation is a 30m x 30m patch. We are asked to predict an integer classification for the forest cover type. The seven types are:
 
-Spruce/Fir
+*Spruce/Fir
 
-Lodgepole Pine
+*Lodgepole Pine
 
-Ponderosa Pine
+*Ponderosa Pine
 
-Cottonwood/Willow
+*Cottonwood/Willow
 
-Aspen
+*Aspen
 
-Douglas-fir
+*Douglas-fir
 
-Krummholz 
+*Krummholz 
 
 The training set (15120 observations) contains both features and the Cover_Type. The test set contains only the features.
 
